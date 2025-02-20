@@ -1,1 +1,1 @@
-This is a machine learning algorithm to see the best Indian crop to grow in differing conditions. We used a DecisionTreeClassifier as our machine learning model. 
+This is a machine learning algorithm to calculate the best Indian crop to grow in differing conditions including soil pH and climate conditions. It was made in the Tidal TAMU Datathon in 2024. We made our own algorithm using a DecisionTreeClassifier as our machine learning model. 
